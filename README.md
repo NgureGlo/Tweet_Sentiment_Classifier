@@ -63,32 +63,6 @@ Visualizations Conducted:
    ```bash
    jupyter notebook
    ```
-<<<<<<< HEAD
 5. Open the `website_phishing.ipynb` notebook.
 6. Follow the instructions and execute the cells in the notebook to replicate the analysis steps.
 
----
-
-## Requirements
-
-To run this project, the following Python packages are required:
-
-```plaintext
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-nltk
-tensorflow
-jupyter
-```
-
-Ensure you have Python (preferably 3.6 or higher) installed on your machine before proceeding with the installation of the above dependencies.
-
----
-=======
-5. Open the `tweet_sentiment_classifier.ipynb` notebook.
-6. Follow the instructions and execute the cells in the notebook to replicate the analysis steps.
-
->>>>>>> 271079e6dc3f8d8f5bdacba9ed0122238679811d
