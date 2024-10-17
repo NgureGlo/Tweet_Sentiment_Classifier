@@ -1,5 +1,5 @@
 # Twitter Sentiment Analysis
-![alt text](images\customer-sentiment-analysis-main.jpg)
+![alt text](images/customer-sentiment-analysis-main.jpg)
 
 ## Overview
 - **Project Goal:**  
