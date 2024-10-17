@@ -1,0 +1,12 @@
+To run this project, the following Python packages are required:
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+tensorflow
+jupyter
+
+Ensure you have Python (preferably 3.6 or higher) installed on your machine before proceeding with the installation of the above dependencies.
